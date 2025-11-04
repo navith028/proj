@@ -7,7 +7,7 @@
 *.o
 *.obj
  
-
+ignore/
 
 # Precompiled Headers
 *.gch
